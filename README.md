@@ -92,7 +92,7 @@ that's your last result: 11.180339887498949, thanks for use my calculator
 ## Notes
 
 - This project is a **personal effort** by the author, demonstrating understanding of **Java basics**: variables, loops, input handling, and `switch` statements.  
-- The README is **manually adapted** from your code to reflect its current behavior and features.
+- The README is **AI generated** from your code to reflect its current behavior and features.
 
 
 
